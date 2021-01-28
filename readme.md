@@ -8,7 +8,7 @@ Sending a GET request to [https://quotes.rest/qod](https://quotes.rest/qod) will
 
 ### Things to keep in Mind #Rules
 
-Usage of Flutter Framework is highly appreatiated. If you don't know Flutter you can use basic Java or Kotlin to complete the task.
+Usage of Flutter Framework is highly appreciated. If you don't know Flutter you can use basic Java or Kotlin to complete the task.
 
 Maintain a clean commit history and add comments wherever necessary. The code should be easily readable.
 
